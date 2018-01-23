@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">3 VXG - view camera share (Demo)</string>
+    <string name="app_short_name">3 VXG - view camera share (Demo)</string>
+
+    <string name="action_connect">Connect</string>
+    <string name="action_share">Share</string>
+    <string name="action_unshare">Unshare</string>
+</resources>

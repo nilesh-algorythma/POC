@@ -1,0 +1,3 @@
+include ':sdk'
+project(':sdk').projectDir = new File(settingsDir, '../sdk')
+include ':app', ':snippet1_createbyurl', ':snippet2_viewbyid', ':snippet3_camerashare', ':snippet4_cameralist', ':snippet5_camerachangesettings', ':snippet6_timelineview'

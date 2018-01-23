@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/layout-v21/notification_action.xml"
+    }
+]

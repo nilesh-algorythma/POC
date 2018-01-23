@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_536a2ac70fc91f6774e06d1e4b3e71049558b87a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/c15f07c89089918bdb50fb52f7793c1272f84ce1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0d86ad5b79ed5d4394b3f4011ec90a7d9b876fcb">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00b41047e5f76a002a4d07e270113a9765b41cd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/7088b4dce1c135bbe68412da5897179738d8c02d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d239bb9436163deb12e83d14bcb6cfc6da8d1e12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/5603cd7509f69004fa5bffdd15033649b2904963/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0ee09766bc2a064409d67d7d213c1e788444fdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9a65b7fec97d493634107929b9333b6f10feffc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/cd2aa9e7fe475dc886db42ff2fad8dc7c2901420/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_639a03921393f4146acc885149a04b9adb3f923d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/6645597fa879c0bef100ee54b219b50813eead97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae347ddd915cc44b70857bb0ca10d6cd145bec68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/688d501f3b1a63b7cfb418f1d90c505e171194ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_135d4519b55a118c1434c04a3199ea35544a4686/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/7c503937846018d12c0c23674d629310384f7077/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4789cde4198fd032c39edb71437decaa86d166b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/9c3f637c48df40958eb329505bc06ff1cbb7e1a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b012b22bd9fb5f5484ac95e7cf2b3baa8a928ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/59a807c9387541df3be04a8fc1eddc983d13d4ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7aee3c9bee3423afdcc22a00c3ef7f3be82c035/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/220ca80e5c64d78d94e95f80cc8908e6107d0b49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09815e43c9fe3d1d4c5ac2dc57a46e534b881e80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/26d2909568eefaedab1512c99a5b608de430d174/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a46c0f59a32ee48ef7abd422a9b5643f7175ac87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/7c1eb099d461ee03610b25a4688e05219adf7595/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0160065901f5804006cf99c83f28d5e1233e19b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a6ca236ef3136a69fd5ce98cf0a2c2fb0dd7992">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_44c0718fe0600b4829bec9ca813ef21ccbb06ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/788c1619bffa299888010a1bffb49890d31fa3ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0477f6eeecc5471aacc4e6c9da9f644a1d1a511d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/bundles/default/libs/mediacapturesdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d287c191fd58ddee1eff636f1082a47f48ce37d">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/8/mediacapturesdk_6fdd6455dcd57cec190c5dc826bac12dc34c5f3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/1b9a9002547c550559b7de8565ce21e1eb8d7331/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c183ce52fba856e0e1df8782d216857668d864c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/82a74b1bf8e42a5037ef46998419d30a12f9af35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ba709e7fd0cac9edbf7d4d026298db6fbc31e1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/.android/build-cache/7ad0defa63a8edc8285e2572a0792bcde5b91147/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1e1a59b1d97fd11b520f0387364455e18a9c43b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_c2a1590b49b6d027519d47899a02c4c050859de1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/bundles/default/libs/mediaplayersdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c38739f6ea5e777f78f2129b4cfb716fc9bdec63">
+        <dex dex="/Users/vinothswaminathan/Downloads/180112/CloudSDK/streamland_streamer/build/intermediates/transforms/dex/debug/folders/1000/8/mediaplayersdk_346d11e75ba0d0a81480bdec589492a2c9c3dfb9/classes.dex" />
+    </item>
+
+</items>

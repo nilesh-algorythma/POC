@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/vinothswaminathan/Downloads/180112/CloudSDK/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/vinothswaminathan/.android/build-cache/cc599595a8875e23af9a2de05e5946cde3d913f5/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

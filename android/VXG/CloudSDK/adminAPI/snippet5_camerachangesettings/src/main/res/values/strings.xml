@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">5 VXG - ChangeSettings (Demo) </string>
+
+    <string name="update_all_cameras">Get all cameras</string>
+
+    <string name="button_connected">Connect</string>
+    <string name="button_save">Save</string>
+    <string name="button_refresh">Refresh</string>
+
+    <string name="label_name">Name : </string>
+    <string name="label_url">URL : </string>
+    <string name="label_login">Login : </string>
+    <string name="label_password">Password : </string>
+
+    <string name="label_public">IsPublic : </string>
+
+    <string name="camera_is_connected">Status: Connected</string>
+    <string name="camera_is_disconnected">Status: Disconnected</string>
+</resources>
